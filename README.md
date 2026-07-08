@@ -1,4 +1,4 @@
-# ⚡️ SNAKE_PROTOCOL_v1.0 ⚡️
+# ⚡️ SNAKERUSH ⚡️
 
 *A terminal-inspired, high-velocity survival simulation.*
 
